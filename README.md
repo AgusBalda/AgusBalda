@@ -18,10 +18,3 @@ const AgusBalda = {
 }
 ```
 
-<div>
-  <p>
-    Soy una persona a la que le gustan los desafios, me gustan mucho los algoritmos, soy joven y tengo mucha energia.
-    Estoy cursando la Licenciatura en informatica y haciendo algunos proyectos propios.  
-  </p>
-  <strong> Espero que esta breve introduccion demuestre un poco de lo que soy capaz </strong>
-</div>
